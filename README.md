@@ -2,14 +2,14 @@
 
 **Cyber Threat Intelligence | Offensive Security | Security Research**
 
-[![Website](https://img.shields.io/badge/Website-byfranke.com-blue)](https://byfranke.com) [![Medium](https://img.shields.io/badge/YouTube-youtube.com/byfranke-red)](https://www.youtube.com/@byfranke-sec) [![Medium](https://img.shields.io/badge/Medium-@byfranke-black)](https://byfranke.medium.com)
+[![Website](https://img.shields.io/badge/Website-byfranke.com-blue)](https://byfranke.com) [![Medium](https://img.shields.io/badge/YouTube-@byfranke-red)](https://www.youtube.com/@byfranke-sec) [![Medium](https://img.shields.io/badge/Medium-@byfranke-black)](https://byfranke.medium.com)
 
-Olá! Sou **Frank**, um analista de ciber segurança apaixonado por **Cyber Threat Intelligence**, **Ofensive Security** e **Pesquisas Avançadas de Segurança**. Minha missão é desvendar as técnicas dos invasores e fortalecer defesas digitais, garantindo que empresas e usuários estejam um passo à frente das ameaças.
+Olá! Sou **Frank**, ajudo organizações a identificar, analisar e mitigar ameaças digitais.
 
 ---
 
 ## 🔎 O que faço
-- **Malware Analysis**: Reverse engineering de vírus, worms, trojans, ransomware e spyware. Desmembrando comportamentos maliciosos e criando defesas eficazes.  
+- **Malware Analysis**: Análise de malwares, desmembrando comportamentos maliciosos e criando defesas eficazes.  
 - **Offensive Security & Red Team**: Execução de testes de intrusão e simulações de ataques para avaliar, reforçar e validar a postura de segurança em diversos cenários.  
 - **Threat Intelligence**: Mapeamento de ameaças emergentes e análise de dados coletados de diversas fontes, convertendo informações em ações de mitigação.  
 
@@ -29,6 +29,6 @@ Olá! Sou **Frank**, um analista de ciber segurança apaixonado por **Cyber Thre
 ---
 
 ### 💬 Vamos Conversar!
-Quer colaborar ou tirar dúvidas? Fique à vontade para enviar PRs ou me contatar via [byfranke.com](https://byfranke.com/). 
+Quer colaborar ou tirar dúvidas? Fique à vontade para me contatar via [byfranke.com](https://byfranke.com/). 
 
 **Juntos, podemos tornar o mundo digital mais seguro!**
