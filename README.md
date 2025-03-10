@@ -2,7 +2,7 @@
 
 **Cyber Threat Intelligence | Offensive Security | Security Research**
 
-[![Website](https://img.shields.io/badge/Website-byfranke.com-blue)](https://byfranke.com) [![Medium](https://img.shields.io/badge/YouTube-youtube.com/byfranke-sec-red)](https://www.youtube.com/@byfranke-sec) [![Medium](https://img.shields.io/badge/Medium-@byfranke-black)](https://byfranke.medium.com)
+[![Website](https://img.shields.io/badge/Website-byfranke.com-blue)](https://byfranke.com) [![Medium](https://img.shields.io/badge/YouTube-youtube.com/byfranke-red)](https://www.youtube.com/@byfranke-sec) [![Medium](https://img.shields.io/badge/Medium-@byfranke-black)](https://byfranke.medium.com)
 
 Olá! Sou **Frank**, um analista de ciber segurança apaixonado por **Cyber Threat Intelligence**, **Ofensive Security** e **Pesquisas Avançadas de Segurança**. Minha missão é desvendar as técnicas dos invasores e fortalecer defesas digitais, garantindo que empresas e usuários estejam um passo à frente das ameaças.
 
