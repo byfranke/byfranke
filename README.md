@@ -2,7 +2,7 @@
 
 **Cyber Threat Intelligence | Offensive Security | Security Research**
 
-[![Website](https://img.shields.io/badge/Website-byfranke.com-blue)](https://byfranke.com) [![YouTube](https://img.shields.io/badge/YouTube-@byfranke-sec-red)](https://www.youtube.com/@byfranke-sec) [![Medium](https://img.shields.io/badge/Medium-@byfranke-black)](https://byfranke.medium.com)
+[![Website](https://img.shields.io/badge/Website-byfranke.com-blue)](https://byfranke.com) [![YouTube](https://img.shields.io/badge/YouTube-@byfrankesec-red)](https://www.youtube.com/@byfranke-sec) [![Medium](https://img.shields.io/badge/Medium-@byfranke-black)](https://byfranke.medium.com)
 
 Hello! I’m **Frank**, and I help organizations identify, analyze, and mitigate digital threats.
 
