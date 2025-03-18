@@ -29,6 +29,6 @@ Olá! Sou **Frank**, ajudo organizações a identificar, analisar e mitigar amea
 ---
 
 ### 💬 Vamos Conversar!
-Quer colaborar ou tirar dúvidas? Fique à vontade para me contatar via [byfranke.com](https://byfranke.com/). 
+Quer colaborar ou tirar dúvidas? Fique à vontade para me contatar via [byfranke.com](https://byfranke.com/#Contact). 
 
 **Juntos, podemos tornar o mundo digital mais seguro!**
