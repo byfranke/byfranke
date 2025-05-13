@@ -1,6 +1,6 @@
 # byFranke
 
-**Cyber Threat Intelligence | Offensive Security | Security Research**
+**Cybersecurity | Threat Intelligence | Threat Hunting | Product Security**
 
 [![Website](https://img.shields.io/badge/Website-byfranke.com-blue)](https://byfranke.com) [![YouTube](https://img.shields.io/badge/YouTube-@byfrankesec-red)](https://www.youtube.com/@byfranke-sec) [![Medium](https://img.shields.io/badge/Medium-@byfranke-black)](https://byfranke.medium.com)
 
