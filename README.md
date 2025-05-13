@@ -26,6 +26,12 @@ Hello! I’m **Frank**, and I help organizations identify, analyze, and mitigate
 - **GitHub Projects**: Check out my repositories to see how I apply CTI, offensive security, and research concepts in tools and proof-of-concept projects.  
 - **Blog & Articles**: Visit [byfranke.com](https://byfranke.com/) for insights, security tips, and in-depth study reports.
 
+## ✨ Support My Work 
+
+- **If you appreciate what I do and would like to contribute, any amount is welcome. Your support helps fuel my journey and keeps me motivated to keep creating, learning, and sharing. Thank you for being part of it!**
+
+[Donate](https://donate.stripe.com/28o8zQ2wY3Dr57G001)
+
 ---
 
 ### 💬 Let’s Talk!
