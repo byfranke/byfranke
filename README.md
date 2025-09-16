@@ -1,6 +1,6 @@
 # byFranke
 
-**Software Engineer | Cybersecurity Research | Threat Intelligence | Threat Hunting**
+**SOFTWARE ENGINEER | CYBERSECURITY | SOC | THREAT INTELLIGENCE | MISP | SPLUNK | WAZUH | MITRE ATT&CK**
 
 [![Website](https://img.shields.io/badge/Website-byfranke.com-blue)](https://byfranke.com) [![YouTube](https://img.shields.io/badge/YouTube-@byfrankesec-red)](https://www.youtube.com/@byfrankesec) [![Medium](https://img.shields.io/badge/Medium-@byfranke-black)](https://byfranke.medium.com)
 
