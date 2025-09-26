@@ -15,5 +15,4 @@ Olá! Eu sou **Frank**, e ajudo organizações a identificar, analisar e mitigar
 ---
 
 ### Vamos Conversar!
-Quer colaborar ou fazer perguntas? Sinta-se à vontade para entrar em contato via [byfranke.com](https://byfranke.com/#Contact).
-**Juntos, podemos tornar o mundo digital mais seguro!**
+Quer colaborar ou fazer perguntas? Sinta-se à vontade para entrar em [contato](https://byfranke.com/#Contact).
