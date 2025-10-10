@@ -10,7 +10,7 @@ Olá! Eu sou **Frank**, e ajudo organizações a identificar, analisar e mitigar
 ## Apoie Meu Trabalho
 **Se você valoriza o que faço e gostaria de contribuir, qualquer quantia é bem-vinda. Seu apoio ajuda a alimentar minha jornada e me mantém motivado a continuar criando, aprendendo e compartilhando. Obrigado por fazer parte disso!**
 
-[![Donate](https://img.shields.io/badge/Support-Development-blue?style=for-the-badge&logo=github)](https://donate.stripe.com/28o8zQ2wY3Dr57G001)
+[![Donate](https://img.shields.io/badge/Support-Development-blue?style=for-the-badge&logo=github)](https://buy.byfranke.com/b/8wM03kb3u7THeIgaEE)
 
 ---
 
