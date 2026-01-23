@@ -17,3 +17,9 @@ Olá! Eu sou **Frank**, e ajudo organizações a identificar, analisar e mitigar
 
 ### Vamos Conversar!
 Quer colaborar ou fazer perguntas? Sinta-se à vontade para entrar em [contato](https://byfranke.com/#Contact).
+
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/output/pacman-contribution-graph.svg" alt="Contribution Graph" />
+</p>
+---
