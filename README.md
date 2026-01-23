@@ -20,5 +20,5 @@ Quer colaborar ou fazer perguntas? Sinta-se à vontade para entrar em [contato](
 
 ---
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/output/pacman-contribution-graph.svg" alt="Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/output/pacman-contribution-graph-dark.svg" alt="Contribution Graph" />
 </div>
