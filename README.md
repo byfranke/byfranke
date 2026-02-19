@@ -2,7 +2,7 @@
 
 Olá! Eu sou **Frank**, e ajudo organizações a identificar, analisar e mitigar ameaças digitais.
 
-**ENGENHEIRO DE SOFTWARE | CYBERSECURITY | SOC | THREAT INTELLIGENCE | MISP | SPLUNK | WAZUH | MITRE ATT&CK**
+**ENGENHEIRO DE SOFTWARE | CYBERSECURITY | SOC | THREAT INTELLIGENCE | MISP | SPLUNK | WAZUH | N8N**
 
 [![Website](https://img.shields.io/badge/Website-byfranke.com-blue)](https://byfranke.com) [![YouTube](https://img.shields.io/badge/YouTube-@byfrankesec-red)](https://www.youtube.com/@byfrankesec) [![Medium](https://img.shields.io/badge/Medium-@byfranke-black)](https://byfranke.medium.com)
 
