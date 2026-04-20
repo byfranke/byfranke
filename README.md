@@ -11,7 +11,7 @@ ENGENHEIRO DE SOFTWARE | DESENVOLVEDOR DE PRODUTO | CYBERSECURITY | SOC | THREAT
 ## Apoie Meu Trabalho
 **Se você valoriza o que faço e gostaria de contribuir, qualquer quantia é bem-vinda. Seu apoio ajuda a alimentar minha jornada e me mantém motivado a continuar criando, aprendendo e compartilhando. Obrigado por fazer parte disso!**
 
-[![Donate](https://img.shields.io/badge/Support-Development-blue?style=for-the-badge&logo=github)](https://buy.byfranke.com/b/8wM03kb3u7THeIgaEE)
+[![Donate](https://img.shields.io/badge/Support-Development-blue?style=for-the-badge&logo=github)](https://donate.stripe.com/8wM03kb3u7THeIgaEE)
 
 ---
 
