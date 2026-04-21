@@ -4,7 +4,7 @@ Sou Frank, Engenheiro de Software. Atuo como Desenvolvedor de Produto com foco e
 
 ENGENHEIRO DE SOFTWARE | DESENVOLVEDOR DE PRODUTO | CYBERSECURITY | SOC | THREAT INTELLIGENCE | MISP | SPLUNK | WAZUH | ELK STACK | DFIR-IRIS | N8N | GRAFANA
 
-[![Website](https://img.shields.io/badge/Website-byfranke.com-blue)](https://byfranke.com) [![YouTube](https://img.shields.io/badge/YouTube-@byfrankesec-red)](https://www.youtube.com/@byfrankesec) [![Medium](https://img.shields.io/badge/Medium-@byfranke-black)](https://byfranke.medium.com)
+[![Website](https://img.shields.io/badge/Website-byfranke.com-blue)](https://byfranke.com) [![YouTube](https://img.shields.io/badge/YouTube-@byfrankesec-red)](https://www.youtube.com/@byfrankesec) [![Medium](https://img.shields.io/badge/Medium-@byfranke-black)](https://byfranke.medium.com) ![Discord](https://img.shields.io/discord/1369733376822739155?label=Sheep+Community&logo=discord&style=flat-square)
 
 ---
 
